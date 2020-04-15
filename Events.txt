@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="https://mystudyguide.in/wp-content/uploads/2016/05/thia.png" type="image/x-icon"/>
+		<style>
+			 h4{color:#330033;font-family:Times New Roman}
+			 h3{color:#660000;font-family:Times New Roman}
+			 h2{color:#330000;font-family:Times New Roman}
+		</style>
+		<meta name=”keyword”  content=”tce mini hackathon,tce coders club,cse,events,events page” http-equiv=”refresh” content=”120" 
+		           name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Events Page of Department of Computer Science and Engineering </title>
+	</head>
+	<body bgcolor="#CCCFF">
+		<center> <img src="logo.png" alt="TCE" align="middle" width="700" height="70"> </img> </center>
+		<br>
+		<center><h2> Events Page </h2></center>
+		<dl>
+			<dt><h3>Techutsav:</h3></dt>
+			<dd> Our Department of Computer Science and Engineering is a very involving department in one of the largest techno festival of south Tamil Nadu.</dd>
+			<dt><h4>ALGO B073:</h4><dt>
+			<dd>Get ready to come up with the most efficient action in a race against time.</dd>
+			<dt><h4>Infinity TechWar</h4></dt>
+			<dd>Crack the code and untangle the puzzles on current technologies and core concepts.</dd>
+			<dt><h4>DB Guru</h4></dt>
+			<dd>Query the database and debug</dd>
+			<dt><h4>Brain out</h4><dt>
+			<dd>Discover the C/C++ talents by running down the brain teasers and puzzles.</dd>
+			<dt><h4>The Domain Dude</h4></dt>
+			<dd>Gearup to test your skills on HTML, CSS, JS.
+		</dl>
+		<h3>Details:</h3>
+		<ul><li>Date: April 20 2020<li>Time: 9AM to 5PM<li>Venue: Department of CSE, Thiagarajar College of Engineering, Madurai-15.<li>Faculty incharge:Dr.Nirmala Devi<li>Contact: techutsavcse@gmail.com<li>For more Details visit: techutsav.tce.edu/dept/cse</ul>
+		<dl>
+			<dt><h3>CSE Hackathon</h3></dt>
+			<dd>Convert your innovative idea to a product using efficient algorithms. Help the world with your knowledge.</dd>
+		</dl>
+		<h3>Details:</h3>
+		<ul><li>Date: May 30 2020<li>Time: 9AM to 5PM<li>Venue: Department of CSE, Thiagarajar College of Engineering, Madurai-15.<li>Faculty incharge:Dr.Malini<li>Contact: hackathoncse@gmail.com<li>For more Details visit: hackathon.tce.edu/dept/cse</ul>
+		<dl>
+			<dt><h3>Python Training Course</h3></dt>
+			<dd>Want to learn one of the most trending and game changing language...? Heres' a great opportunity to kick start your journey in Python</dd>
+		</dl>
+		<h3>Details:</h3>
+		<ul><li>Date: June 10 2020<li>Time: 9AM to 5PM<li>Venue: Department of CSE, Thiagarajar College of Engineering, Madurai-15.<li>Faculty incharge:Dr.Jane Rubel Angelina<li>Contact: pythoncse@gmail.com</ul>
+		<dl>
+			<dt><h3>IoT Workshop</h3></dt>
+			<dd>Have hands on experiance on Internet of Things and learn how things around us works.</dd>
+		</dl>
+		<h3>Details:</h3>
+		<ul><li>Date: July 25 2020<li>Time: 9AM to 5PM<li>Venue: Department of CSE, Thiagarajar College of Engineering, Madurai-15.<li>Faculty incharge:Dr.Leena Sri<li>Contact: tceiotcse@gmail.com</ul>
+		<dl>
+			<dt><h3>IEEE Conference</h3></dt>
+			<dd>IEEE ICCIC International Conference on Computational Intelligence and Computing Reasarch. Great opportunity to learn a lot of new stuff.</dd>
+		</dl>
+		<h3>Details:</h3>
+		<ul><li>Date: August 05 2020<li>Time: 9AM to 5PM<li>Venue: Department of CSE, Thiagarajar College of Engineering, Madurai-15.<li>Faculty incharge:Dr.Sunderakantham<li>Contact: tecieeecse@gmail.com</ul>
+	</body>
+</html>

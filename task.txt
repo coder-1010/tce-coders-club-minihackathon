@@ -1,0 +1,11 @@
+Problem statement: Design a web application for a department , to manage announcements and association events.
+This application has to overcome 
+1. Announcements delivered through WhatsApp
+2. Events conducted on Google forms.
+Criteria :
+1. UI design - must contain a home page ( description of the department and list of association), registration page, winners page, announcement page.
+2. Mobile Responsiveness and user experience.
+4. Back end not needed as of now. 
+Goal of this event is to bring out the creativeness and effectiveness in designing a page. 
+If you are using bootstrap css, try to customize it.
+Monday - 12.00 PM we will have a small review.

@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="https://mystudyguide.in/wp-content/uploads/2016/05/thia.png" type="image/x-icon"/>
+		<title>Anouncement Page of Department of Computer Science and Engineering</title>
+		<meta name=”keyword”  content=”tce mini hackathon,tce coders club,cse,anouncements,anouncement page” http-equiv=”refresh” content=”120" 
+		           name="viewport" content="width=device-width, initial-scale=1.0">
+	<head>
+	<body bgcolor="#CCCFF" link="#660000" vlink= "#660000" alink="#660000">
+		<center> <img src="logo.png" alt="TCE" align="middle" width="700" height="70"> </img> </center>
+		<br><h2 color="#330000"> Announcement Page </h2>
+		<marquee behavior="scroll" direction="up" scrollamount="2" white-space: nowrap>
+			<ul><li>Semester exams remain postponed. The exam schedule will be informed after the lock down is over.–Anna University.
+			<li>Online classes will take place during this lockdown period. Students are requested to cooperate and be prepared for any situation that arises in the future.
+			<li>Glitzia 2020
+			<li>Techutsav 2020
+			<li>Results of the odd semester have been published.</ul>
+		</marquee>
+	</body>
+</html>
